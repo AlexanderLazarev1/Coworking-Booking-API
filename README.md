@@ -16,7 +16,7 @@
 1. **Клонируйте репозиторий**
    ```bash
    git clone https://github.com/AlexanderLazarev1/Coworking-Booking-API.git
-   cd coworking-booking
+   cd Coworking-Booking-API
    ```
 
 2. **Соберите Docker-образ**
