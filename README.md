@@ -15,7 +15,7 @@
 
 1. **Клонируйте репозиторий**
    ```bash
-   git clone https://github.com/ваш_username/coworking-booking.git
+   git clone https://github.com/AlexanderLazarev1/coworking-booking.git
    cd coworking-booking
    ```
 
